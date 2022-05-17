@@ -1,0 +1,29 @@
+{
+  "namespace": null,
+  "npcs": [
+    {
+      "id": "Slime_PVP",
+      "name": "Slime_PVP",
+      "subtitle": "Unknown Subtitle"
+    }
+  ],
+  "dialogs": [
+    {
+      "npc": "Slime_PVP",
+      "id": "entry",
+      "lines": [
+        "Тестовый диалог для Slime_PVP"
+      ],
+      "buttons": [
+        {
+          "text": "Выполнить команду",
+          "action": "/spawn"
+        },
+        {
+          "text": "Закрыть",
+          "action": "close"
+        }
+      ]
+    }
+  ]
+}

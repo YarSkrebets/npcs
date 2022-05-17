@@ -1,0 +1,29 @@
+{
+  "namespace": null,
+  "npcs": [
+    {
+      "id": "Suinew",
+      "name": "Суюнью",
+      "subtitle": "Unknown Subtitle"
+    }
+  ],
+  "dialogs": [
+    {
+      "npc": "Суюнью",
+      "id": "entry",
+      "lines": [
+        "Тестовый диалог для Суюнью"
+      ],
+      "buttons": [
+        {
+          "text": "Выполнить команду",
+          "action": "/spawn"
+        },
+        {
+          "text": "Закрыть",
+          "action": "close"
+        }
+      ]
+    }
+  ]
+}

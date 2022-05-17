@@ -1,0 +1,16 @@
+{
+  "x": 24.0,
+  "y": 53.0,
+  "z": 10.0,
+  "world": "world",
+  "name": "Воланд",
+  "dialog": "Voland-entry",
+  "behaviour": "STARE_AND_LOOK_AROUND",
+  "pitch": 0.0,
+  "yaw": 0.0,
+  "skin": "https://webdata.c7x.dev/textures/skin/338dd865-2d9c-11ea-b816-1cb72caa35fd",
+  "slimArms": false,
+  "sneaking": false,
+  "sleeping": false,
+  "sitting": false
+}

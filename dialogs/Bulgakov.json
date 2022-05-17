@@ -1,0 +1,29 @@
+{
+  "namespace": null,
+  "npcs": [
+    {
+      "id": "Bulgakov",
+      "name": "Михаил Булгаков",
+      "subtitle": "Unknown Subtitle"
+    }
+  ],
+  "dialogs": [
+    {
+      "npc": "Михаил Булгаков",
+      "id": "entry",
+      "lines": [
+        "Тестовый диалог для Михаил Булгаков"
+      ],
+      "buttons": [
+        {
+          "text": "Выполнить команду",
+          "action": "/spawn"
+        },
+        {
+          "text": "Закрыть",
+          "action": "close"
+        }
+      ]
+    }
+  ]
+}

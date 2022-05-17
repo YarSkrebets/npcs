@@ -1,0 +1,29 @@
+{
+  "namespace": null,
+  "npcs": [
+    {
+      "id": "PVP",
+      "name": "Гладиатор",
+      "subtitle": "Unknown Subtitle"
+    }
+  ],
+  "dialogs": [
+    {
+      "npc": "Гладиатор",
+      "id": "entry",
+      "lines": [
+        "Тестовый диалог для Гладиатор"
+      ],
+      "buttons": [
+        {
+          "text": "Выполнить команду",
+          "action": "/spawn"
+        },
+        {
+          "text": "Закрыть",
+          "action": "close"
+        }
+      ]
+    }
+  ]
+}

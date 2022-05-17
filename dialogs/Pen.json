@@ -1,0 +1,29 @@
+{
+  "namespace": null,
+  "npcs": [
+    {
+      "id": "Pen",
+      "name": "Питер Пэн",
+      "subtitle": "Unknown Subtitle"
+    }
+  ],
+  "dialogs": [
+    {
+      "npc": "Питер Пэн",
+      "id": "entry",
+      "lines": [
+        "Тестовый диалог для Питер Пэн"
+      ],
+      "buttons": [
+        {
+          "text": "Выполнить команду",
+          "action": "/spawn"
+        },
+        {
+          "text": "Закрыть",
+          "action": "close"
+        }
+      ]
+    }
+  ]
+}
